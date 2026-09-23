@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title description">
+  <title id="title">Ancient Greek temple</title>
+  <desc id="description">A stylized temple among mountains under a warm sky.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d99a55"/>
+      <stop offset="1" stop-color="#f4dfb9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <path d="M0 330 180 185 335 330 520 145 800 340V500H0Z" fill="#8d745b"/>
+  <path d="M0 382 210 260 390 390 590 245 800 365V500H0Z" fill="#5f654f"/>
+  <g fill="#ead7ae" stroke="#6d4b2c" stroke-width="8">
+    <path d="M235 245h330l-165-95Z"/>
+    <path d="M220 245h360v30H220Z"/>
+    <path d="M245 275h40v150h-40zM335 275h40v150h-40zM425 275h40v150h-40zM515 275h40v150h-40z"/>
+    <path d="M215 425h370v35H215Z"/>
+  </g>
+</svg>
